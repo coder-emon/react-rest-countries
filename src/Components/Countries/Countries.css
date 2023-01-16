@@ -1,0 +1,9 @@
+.country-container{
+    margin:10px auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:2rem;
+    justify-content: center;
+    justify-items: center;
+}
